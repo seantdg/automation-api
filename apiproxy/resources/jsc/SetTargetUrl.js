@@ -17,6 +17,7 @@ if (context.getVariable("environment.name") === "prod") {
 	}
 	else {
 		context.setVariable("request.header.x-mock-filename", driver);
-	}
-	
+	}	
 }
+
+a = b
