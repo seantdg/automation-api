@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ProxyEndpoint name="default">
-    <Description/>
+    <Description/><!-- example commit -->
     <FaultRules/>
     <PreFlow name="PreFlow">
     </PreFlow>
