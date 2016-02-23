@@ -20,5 +20,3 @@ if (context.getVariable("environment.name") === "prod") {
 	}
 	
 }
-
-a = b //commit something to break the build
